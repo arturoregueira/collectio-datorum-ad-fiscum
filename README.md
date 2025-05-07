@@ -1,0 +1,1 @@
+Repository pro EDGAR (Excerpendi, Disputandi, Gerendi, Accipiendi, Referendique Systema), instrumento ad acta negotiatorum publicorum exquirenda, extrahenda, et ordinanda. Codice Pythonico compositum, hoc instrumentum formas selectas recognoscit et praebet ad usum fiscalem sive archivisticum.
