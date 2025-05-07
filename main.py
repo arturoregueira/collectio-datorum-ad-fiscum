@@ -4,9 +4,9 @@ import  edgar_api #functiones receptae ex edgar_api.py
 
 
 def main():
-    ticker = input("Praebe ticker").upper()
-    form_type = input("Praebe forma").upper()
-    count = int(input("quantitas"))
+    ticker = input("Praebe ticker ").upper()
+    form_type = input("Praebe forma ").upper()
+    count = int(input("quantitas "))
     
     print(f"Recuperatio inscriptionum pro {ticker}...")
     data = edgar_api.get_company_submissions(ticker)
