@@ -9,4 +9,4 @@ venv/
 Thumbs.db
 .vscode/
 .env
-data.py
+multo_datum.py
